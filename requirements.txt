@@ -1,0 +1,25 @@
+# DAWN - Digital Autonomous Wisdom Network
+# Core Dependencies
+
+# Vector Database (Long-term Memory)
+chromadb>=0.4.22
+
+# Neural Embeddings (GPU-accelerated)
+sentence-transformers>=2.2.2
+
+# Dataset Loading (HuggingFace)
+datasets>=2.16.0
+
+# Progress Visualization
+tqdm>=4.66.0
+
+# System Access
+psutil>=5.9.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Utilities
+numpy>=1.24.0
+
+# Note: Install PyTorch separately for your CUDA version:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
