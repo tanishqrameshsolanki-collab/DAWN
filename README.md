@@ -87,7 +87,7 @@ Unlike Large Language Models (LLMs) that predict the next token, DAWN generates 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/DAWN.git
+git clone https://github.com/tanishqrameshsolanki-collab/DAWN.git
 cd DAWN
 
 # Create virtual environment
@@ -327,8 +327,8 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
+**Tanishq Ramesh Solanki**
+- GitHub: [@tanishqrameshsolanki-collab](https://github.com/tanishqrameshsolanki-collab)
 
 ---
 
